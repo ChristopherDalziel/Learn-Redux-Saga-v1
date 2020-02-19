@@ -1,3 +1,5 @@
+// Exports on the functions within this file excluding the rootSaga are for testing only and not required for the app to function.
+
 import { call, put, takeEvery, all } from "redux-saga/effects";
 
 // SAGA 1
